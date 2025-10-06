@@ -66,7 +66,7 @@ void generateMultipleGradients() {
     std::cout << "\n=== Примеры разных градиентов ===\n";
     
     std::cout << "/* Градиент 1 */\n";
-    generateCssGradient("#ff6b6b", "#556270");
+    generateCssGradient("#6bffb3ff", "#556270");
     
     std::cout << "\n/* Градиент 2 */\n";
     generateCssGradient("#00b4db", "#0083b0");
